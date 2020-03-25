@@ -1,0 +1,3 @@
+# GIT COMMIT MESSAGE MAKER
+
+### GIT COMMIT MESSAGE 짜기 열라 어려워서 만듬
