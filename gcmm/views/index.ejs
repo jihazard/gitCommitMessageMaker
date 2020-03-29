@@ -4,10 +4,23 @@
     <title><%= title %></title>
     <link rel='stylesheet' href='/stylesheets/style.css' />
   </head>
+  <style>
+
+    header {
+      margin: 0 auto;
+    }
+  
+  </style>
   <body>
     <div class="masthead">
-      <h1><%= title %></h1>
-      <p>Welcome to <%= title %></p>
+      <header class="masthead d-flex">
+        <div class="container text-center my-auto">
+          <h1 class="mb-1">git Commit Message</h1>
+          <p class="mb-5">Welcome to <%= title %></p>
+        
+        </div>
+
+      </header>
     </div>
   </body>
 </html>
